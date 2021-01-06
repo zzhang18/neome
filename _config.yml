@@ -11,7 +11,7 @@ collections:
 tagline: A home for learning notes
 email: zzhan18@syr.edu
 description: This is the website for displaying blog for various repos and notes.
-baseurl: "/ME"
+baseurl: "/neome"
 url: ''
 github_username: zzhan18
 plugins:
