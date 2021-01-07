@@ -1,6 +1,7 @@
 ---
 title: My EdutainmentShip
 timezone: Asia/Shanghai
+date_format: "%A %x %r %Z"
 collections:
   posts:
     title: Posts
