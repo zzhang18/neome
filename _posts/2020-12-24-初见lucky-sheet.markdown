@@ -16,7 +16,7 @@ layout: post
 
 # Demo测试网页
 
-[LuckysheetTrial with import and export](https://zzhang18.github.io/shgbit/LuckySheetTrial)
+[LuckysheetTrial with import and export](https://zzhang18.github.io/sgb/LuckySheetTrial)
 
 # Luckysheet 适配Excel
 * 单元格大小适配（像素）
